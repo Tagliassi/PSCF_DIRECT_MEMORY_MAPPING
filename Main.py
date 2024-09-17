@@ -1,6 +1,10 @@
 import sys
 
+from CPU import CPU
+from IO import IO
 from Memory import EnderecoInvalido
+from RAM import RAM
+from Cache import Cache
 
 class Main:
     try:
